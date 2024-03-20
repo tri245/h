@@ -1,7 +1,7 @@
 const { Colors } = require('discord.js');
 
 const config = {
-	ownerID: ['YourAccountID'],
+	ownerID: ['1172127753278066700'],
 	token: 'YourBotToken',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
@@ -21,15 +21,15 @@ const config = {
 		// Link to your support server
 		link: 'https://discord.gg/8g6zUQu',
 		// Your support's server ID
-		GuildID: '750822670505082971',
+		GuildID: '1091717501387296911',
 		// This for using the suggestion command on your server
 		ModRole: '751857618720522341',
 		// What channel to post the suggestions
-		SuggestionChannel: '761619652009787392',
+		SuggestionChannel: '1171458388085968938',
 		// Where the bot will send Guild join/leave messages to
-		GuildChannel: '761619652009787392',
+		GuildChannel: '1171458388085968938',
 		// Where rate limits will be sent to, for investigation
-		rateLimitChannelID: '761612724370931722',
+		rateLimitChannelID: '1171458388085968938',
 	},
 	API: {
 		port: 3000,
